@@ -5,8 +5,8 @@
 %global crate rand_xoshiro
 
 Name:           rust-%{crate}
-Version:        0.4.0
-Release:        2%{?dist}
+Version:        0.8.1
+Release:        1%{?dist}
 Summary:        Xoshiro, xoroshiro and splitmix64 random number generators
 
 # Upstream license specification: MIT OR Apache-2.0
